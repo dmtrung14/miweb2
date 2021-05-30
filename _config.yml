@@ -1,6 +1,6 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
+name: Math Inspiration
+title: Website thu vi cua Minh Trung
 description: Jekflix is a template for Jekyll inspired by Netflix and made by
   Thiago Rossener.
 tags:
@@ -9,6 +9,9 @@ tags:
   - jekyll
   - theme
   - netlify
+  - tim kiem theo chieu rong
+  - Venn Diagram
+  - Bruh lmao
 show_hero: true
 menu:
   - title: Home
