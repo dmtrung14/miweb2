@@ -1,5 +1,5 @@
 ---
-date: 2018-10-09 12:26:40
+date: 2030-10-09 12:26:40
 layout: post
 title: The quick brown fox jumps over a lazy dog
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -124,13 +124,3 @@ Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, conse
 </table>
 
 Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-
-
-
-
-
-
-
-
-
